@@ -15,7 +15,6 @@ The process of sentiment analysis using VADER model can be described as follows:
 ### Developed By:P.Siva Naga Nithin
 ### Reg.No:212221240037
 ```
-```
 import pandas as pd
 import vaderSentiment as vs
 
