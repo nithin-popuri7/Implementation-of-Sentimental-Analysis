@@ -15,6 +15,7 @@ The process of sentiment analysis using VADER model can be described as follows:
 ### Developed By:P.Siva Naga Nithin
 ### Reg.No:212221240037
 ```
+```
 import pandas as pd
 import vaderSentiment as vs
 
@@ -39,6 +40,7 @@ for text, sentiment_score in zip(texts, sentiment_scores):
     print("Negative:", sentiment_score['neg'])
     print("Neutral:", sentiment_score['neu'])
     print("Compound:", sentiment_score['compound'])
+```
 
 
 ## Output:
