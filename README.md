@@ -39,7 +39,6 @@ for text, sentiment_score in zip(texts, sentiment_scores):
     print("Negative:", sentiment_score['neg'])
     print("Neutral:", sentiment_score['neu'])
     print("Compound:", sentiment_score['compound'])
-    ```
 
 
 ## Output:
